@@ -49,7 +49,9 @@
 /* SMALL PHONES TO SMALL TABLETS FROM 481PX TO 767PX */
 
 @media only screen and (max-width: 767px) {
-  body { font-size: 16px; }
+  body {
+    font-size: 16px;
+    }
 
   section { padding: 30px 0; }
 
@@ -96,6 +98,7 @@
     border: 0;
     padding: 10px 0;
     font-size: 100%;
+    color: blue;
   }
 
   /*STICKY NAV*/
