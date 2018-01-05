@@ -1,0 +1,5 @@
+the goddamn fucking mobile nav and inconsistencies with measuring width via window.width() --- see script.js 97-100
+
+adding class to make a sticky nav
+
+underlines after h2 subheadings (:after pseudoclass)
