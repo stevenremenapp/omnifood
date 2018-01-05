@@ -3,3 +3,5 @@ the goddamn fucking mobile nav and inconsistencies with measuring width via wind
 adding class to make a sticky nav
 
 underlines after h2 subheadings (:after pseudoclass)
+
+PUT YOUR FILES IN THE RIGHT LOCATION ON YOUR GITHUB! CHECK LOCATIONS CHECK LOCATIONS CHECK LOCATIONS IF THINGS WORK LOCALLY BUT NOT ONLINE.
